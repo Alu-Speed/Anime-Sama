@@ -1,4 +1,4 @@
-Anime-Sama est un site de référencement et de catalogage avec le moins de publicités dérangeantes possibles, créé par des passionnés de l’animation et du divertissement APAC.
+Anime-Sama est un site de référencement et de catalogage d'animé en VOSTFR ou VF.
 
 Cette application sert uniquement à avoir accès au site Anime-Sama.fr depuis une application et non un site web. Cette application N'EST PAS une application officielle, néanmoins elle est utile tant que le site officiel n'a pas sorti une app.
 
